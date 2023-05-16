@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rt2306/rt2306/blob/main/rohit.png)
 <h1 align="center">Hi 👋, I'm Rohit Thakur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
