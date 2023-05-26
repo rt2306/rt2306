@@ -1,6 +1,11 @@
  
 ![logo](https://github.com/rt2306/rt2306/blob/main/rohit.png)
-<h1 align="center">Hi 👋, I'm Rohit Thakur</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I+am+Rohit+Thakur.;A+FullStack+developer+from+India.)](https://git.io/typing-svg)
+  
+ 
+</div>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="coding" width="100" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" />
