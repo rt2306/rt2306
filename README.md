@@ -1,11 +1,4 @@
-
-<div align="center">
-
-![Typing SVG](https://git.io/typing-svg)
-  
-<p> I am a Rohit Thakur ,Full Stack Developer<p>
-
-</div>
+ 
 ![logo](https://github.com/rt2306/rt2306/blob/main/rohit.png)
 <h1 align="center">Hi 👋, I'm Rohit Thakur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
