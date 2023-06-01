@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently learning **react.js , node.js , laravel, javascript,mongodb,mysql,html,css**
 
-- 🔭 I’m currently working exchange [charlie exchange](https://demo.charlieexchange.io/)
 
 - 🔭 I’m currently working node api's **ebull's app api's**
 
